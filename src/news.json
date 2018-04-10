@@ -1,0 +1,32 @@
+[	
+	{
+		"id": 1,
+		"title": "Чума в Москве застала всех врасплох",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt voluptatum, voluptate error impedit quis totam?",
+		"img": "../img/pic1.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Наступил ледниковый период",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero magni eligendi, velit necessitatibus voluptatum provident! Impedit quis qui molestiae quia, vel voluptatibus deserunt nulla eos!",
+		"img": "../img/pic2.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Путин переизбран на 27-ой срок",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor aliquam ab blanditiis ad, vero dignissimos minima accusantium provident veritatis explicabo.",
+		"img": "../img/pic3.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Чтобы не было грибка, нужно всего лишь втирать на ночь 5 капель...",
+		"text": "Lorem ipsum dolor sit amet.",
+		"img": "../img/pic4.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Доллару предрекли крах",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quibusdam ipsam dicta dolore laudantium enim repellendus pariatur labore laborum.",
+		"img": "../img/pic5.jpg"
+	}
+]
